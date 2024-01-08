@@ -131,7 +131,7 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
         
     },
-    
+    // commit changes
     "workbench.activityBar.location": "top",
     "editor.folding": false,
     "editor.glyphMargin":false
