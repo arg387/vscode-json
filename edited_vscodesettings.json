@@ -2,7 +2,6 @@
     "debug.showSubSessionsInToolBar": true,
     "python.defaultInterpreterPath": "C:\\Users\\Argha Saha\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
     "code-runner.runInTerminal": true,
-    "workbench.iconTheme": "eq-material-theme-icons-deepforest",
     "files.autoSave": "afterDelay",
     "liveServer.settings.fullReload": true,
     "editor.linkedEditing": true,
@@ -16,9 +15,7 @@
     "terminalCursor.foreground": "#00c8ff"
     },
     "terminal.integrated.gpuAcceleration": "on",
-    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
     "tabnine.experimentalAutoImports": true,
-    "workbench.colorTheme": "Activate UMBRA protocol",
     "terminal.integrated.profiles.windows": {
 
         
@@ -43,6 +40,7 @@
         }
     },
     "peacock.favoriteColors": [
+
         {
             "name": "Angular Red",
             "value": "#dd0531"
@@ -108,6 +106,10 @@
             "value": "#fc1c23"
         },
         {
+            "name": "blackie",
+            "value": "#000000"
+        },
+        {
             "name": "color*",
             "value": "#500282"
         }
@@ -115,7 +117,7 @@
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "powershell.enableProfileLoading": false,
     "editor.fontSize": 16,
-    "editor.fontFamily": "'CaskaydiaCove Nerd Font MONO',Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'FiraCode Nerd Font Mono'",
     "editor.lineHeight": 1.6,
     "editor.fontLigatures": false,
     "editor.mouseWheelZoom": true,
@@ -125,12 +127,42 @@
     ],
     "editor.wordWrap": "wordWrapColumn",
     "editor.cursorBlinking": "expand",
-    "files.defaultLanguage": "markdown",
+    "files.defaultLanguage": "powershell",
     "workbench.activityBar.iconClickBehavior": "toggle",
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
         
     },
+    
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "window.titleBarStyle": "custom",
+  
+    "workbench.iconTheme": "bearded-icons",
+    "editor.wordWrapColumn": 50,
+    "editor.bracketPairColorization.enabled": true,
+    "debug.openDebug": "neverOpen",
+    "editor.tabCompletion": "on",
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "powershell.buttons.showPanelMovementButtons": true,
+    "powershell.codeFolding.showLastLine": false,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "codesnap.backgroundColor": "#3a86ff",
+    "codesnap.boxShadow": "10px -23px 5px 0px rgba(0,0,0,0.75)",
+    "codesnap.showWindowTitle": true,
+    "codesnap.transparentBackground": true,
+  
+    "workbench.colorTheme": "Palenight Italic",
+ 
     // committed changes
     "workbench.activityBar.location": "top",
     "editor.folding": false,
