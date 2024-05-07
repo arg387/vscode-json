@@ -168,7 +168,30 @@
     "editor.folding": false,
     "editor.glyphMargin":false
     
-    
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "name": "Comment",
+            "scope": [
+              "comment",
+              "comment.block",
+              "comment.block.documentation",
+              "comment.line",
+              "comment.line.double-slash",
+              "punctuation.definition.comment",
+            // scope names
+            ],
+
+            "settings": {
+              "fontStyle": "italic",
+              "foreground": "#ebf709dd",
+               
+              // "fontStyle": "italic underline",
+              // "fontStyle": "italic bold underline",
+            }
+          },
+        ]
+      },
     
     
 
