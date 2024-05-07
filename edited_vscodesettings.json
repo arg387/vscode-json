@@ -204,7 +204,16 @@
             "settings": {
                 "fontStyle": "italic"
             }
-        }
+        },
+            {
+            "scope": [
+                "punctuation.definition.comment",
+
+            ],
+            "settings": {
+                "foreground": "#f30fafd8"
+            }
+        },
         ]
       },
     
