@@ -190,6 +190,21 @@
               // "fontStyle": "italic bold underline",
             }
           },
+        {
+            "scope": [
+                "source.java",
+                "source.css",
+                "source.js",
+                "source.c",
+                "source.cpp",
+                "text.html.basic",
+                "source.python",
+
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
+        }
         ]
       },
     
