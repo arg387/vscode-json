@@ -183,9 +183,10 @@
             ],
 
             "settings": {
-              "fontStyle": "italic",
-              "foreground": "#ebf709dd",
-               
+              "fontStyle": "italic bold",
+              "foreground": "#f4e9e9ef",
+
+                // "fontStyle": "italic",
               // "fontStyle": "italic underline",
               // "fontStyle": "italic bold underline",
             }
@@ -211,13 +212,14 @@
 
             ],
             "settings": {
-                "foreground": "#f30fafd8"
+                "foreground": "#0ff3e8d8"
             }
         },
         ]
       },
     
-    
+        "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
 
     
 
