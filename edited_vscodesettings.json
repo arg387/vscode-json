@@ -146,7 +146,7 @@
     "window.titleBarStyle": "custom",
   
     "workbench.iconTheme": "bearded-icons",
-    "editor.wordWrapColumn": 50,
+    "editor.wordWrapColumn": 60,
     "editor.bracketPairColorization.enabled": true,
     "debug.openDebug": "neverOpen",
     "editor.tabCompletion": "on",
