@@ -133,10 +133,6 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
         
     },
-    
-    "[markdown]": {
-        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
-    },
     "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -212,7 +208,8 @@
 
             ],
             "settings": {
-                "foreground": "#0ff3e8d8"
+                "foreground": "#0ff3e8d8",
+                "fontStyle":   "bold"
             }
         },
         ]
