@@ -161,7 +161,7 @@
  
     // committed changes
     "workbench.activityBar.location": "top",
-    "editor.folding": false,
+    "editor.folding": true,
     "editor.glyphMargin":false
     
     "editor.tokenColorCustomizations": {
