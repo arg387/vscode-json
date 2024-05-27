@@ -8,6 +8,7 @@
 ### Editor Configuration
 
   - [x] The glyph margin has been disabled.
+  - [x] Code folding has been enabled.
 ### Comments have been customized with specific font styles and colors.
 
   - [x] General comment styles have been set to italic and bold with a specific foreground color.
