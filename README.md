@@ -1,4 +1,4 @@
-# Repository Changes Summary
+# Repository Changes Summary :tada: :tada:
 
 ## This document outlines the changes made to the repository until now.
 
