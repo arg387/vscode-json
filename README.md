@@ -4,7 +4,6 @@
 
 ### Workbench Configuration
 
-  - [x] The location of the activity bar has been changed to the top.
   - [x] window title edit option is added. You can add your name there with emoji's if you want. Just edit part inside quotation ```"🫡 Hello User This is ${dirty}${activeFolderShort} folder" ```   . Not the part inside ${}
 .
 ### Editor Configuration
