@@ -1,6 +1,5 @@
 # Repository Changes Summary :tada: :tada:
 
-## This document outlines the changes made to the repository until now.
 
 ### Workbench Configuration
 
@@ -18,3 +17,15 @@
   - [x] General comment styles have been set to italic and bold with a specific foreground color.
   - [x] Source code elements (Java, CSS, JS, C, C++, HTML, Python) have been styled to be italic.
   - [x] Punctuation definitions within comments have been set to a bold font style with a distinct foreground color.
+
+# some extension settings are edited here
+  - [x] Custom CSS and JS loader
+  - [x] Dracula theme official
+  - [x] live server
+  - [x] CodeSnap
+
+# How to use
+Download the whole file from repository first. First copy the code of `settings.json` file . Open vscode and press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS. Type `Preferences:
+Open User Settings(JSON)` and press enter. Now paste the codes there and save it. Install Custom CSS and JS loader from extension market. Now add the file location of the vscode_style folder in the `settings.json` file. Then, again press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS and type `Enable Custom CSS and JS` . After that press enter. Now all the changes will be reflected unless you make a problem in file location.
+
+
