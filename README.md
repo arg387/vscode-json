@@ -28,4 +28,9 @@
 Download the whole file from repository first. First copy the code of `settings.json` file . Open vscode and press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS. Type `Preferences:
 Open User Settings(JSON)` and press enter. Now paste the codes there and save it. Install Custom CSS and JS loader from extension market. Now add the file location of the vscode_style folder in the `settings.json` file. Then, again press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS and type `Enable Custom CSS and JS` . After that press enter. Now all the changes will be reflected unless you make a problem in file location.
 
+#
+#
+![Screenshot 2024-08-18 155257](https://github.com/user-attachments/assets/7185898e-71a4-4ab6-b8f9-6e292f02d62c)
+
+
 
