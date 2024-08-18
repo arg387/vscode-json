@@ -169,7 +169,7 @@
               "comment.block.documentation",
               "comment.line",
               "comment.line.double-slash",
-              "punctuation.definition.comment",
+              
             // scope names
             ],
 
