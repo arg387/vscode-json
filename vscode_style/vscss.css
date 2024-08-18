@@ -49,3 +49,21 @@
   color: #d4d5d7;
 }
 
+.monaco-workbench .part.statusbar {
+  background-image: linear-gradient(45deg, #4d4f71, #020a38);
+}
+.mtk1 {
+  color: #2f74be;
+  background-image: linear-gradient(45deg, #d6d4dc, #0bc6f0);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-weight: 800;
+}
+.mtk9 {
+  color: #8be9fd;
+  background-image: linear-gradient(45deg, #faeb08, #e3dede);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-weight: 800;
+}
+
