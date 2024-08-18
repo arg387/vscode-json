@@ -1,13 +1,9 @@
 {
     "debug.showSubSessionsInToolBar": true,
-    "python.defaultInterpreterPath": "C:\\Users\\Argha Saha\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
     "code-runner.runInTerminal": true,
-    "files.autoSave": "afterDelay",
+   
     "liveServer.settings.fullReload": true,
     "editor.linkedEditing": true,
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "window.zoomLevel": 1,
     "workbench.colorCustomizations": {
     "terminal.border": "#09f34f",
@@ -15,7 +11,8 @@
     "terminalCursor.foreground": "#00c8ff"
     },
     "terminal.integrated.gpuAcceleration": "on",
-    "tabnine.experimentalAutoImports": true,
+    "notebook.output.fontFamily": "'JetBrainsMono Bold-Italic '",
+    "workbench.colorTheme": "Dracula Theme",
     "terminal.integrated.profiles.windows": {
 
         
@@ -114,14 +111,7 @@
             "value": "#500282"
         }
     ],
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "powershell.enableProfileLoading": false,
-    "editor.fontSize": 16,
-    "editor.fontFamily": "'FiraCode Nerd Font Mono'",
-    "editor.lineHeight": 1.6,
-    "editor.fontLigatures": false,
-    "editor.mouseWheelZoom": true,
-    "editor.tabSize": 2,
+
     "editor.rulers": [
         100
     ],
@@ -129,20 +119,8 @@
     "editor.cursorBlinking": "expand",
     "files.defaultLanguage": "powershell",
     "workbench.activityBar.iconClickBehavior": "toggle",
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-        
-    },
-    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
-    "[css]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "liveServer.settings.CustomBrowser": "chrome",
-    "liveServer.settings.ChromeDebuggingAttachment": false,
-    "window.titleBarStyle": "custom",
-  
-    "workbench.iconTheme": "bearded-icons",
-    "editor.wordWrapColumn": 60,
+
+
     "editor.bracketPairColorization.enabled": true,
     "debug.openDebug": "neverOpen",
     "editor.tabCompletion": "on",
@@ -152,15 +130,32 @@
     "powershell.codeFolding.showLastLine": false,
     "explorer.confirmDelete": false,
     "workbench.startupEditor": "none",
+
+  
+    
+ 
+    // committed changes
+        "editor.rulers": [
+        100
+    ],
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "window.titleBarStyle": "custom",
+    "editor.wordWrapColumn": 60,
     "codesnap.backgroundColor": "#3a86ff",
     "codesnap.boxShadow": "10px -23px 5px 0px rgba(0,0,0,0.75)",
     "codesnap.showWindowTitle": true,
     "codesnap.transparentBackground": true,
-  
-    "workbench.colorTheme": "Palenight Italic",
- 
-    // committed changes
-    "workbench.activityBar.location": "top",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "powershell.enableProfileLoading": false,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'FiraCode Nerd Font Mono'",
+    "editor.lineHeight": 1.6,
+    "editor.fontLigatures": false,
+    "editor.mouseWheelZoom": true,
+    "editor.tabSize": 2,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
     "editor.folding": true,
     "editor.glyphMargin":false
     
@@ -218,7 +213,9 @@
         "diffEditor.ignoreTrimWhitespace": true,
     "diffEditor.hideUnchangedRegions.enabled": true,
     "window.title": "🫡 Hello User This is ${dirty}${activeFolderShort} folder",
-
+    "vscode_custom_css.imports": [
+        "file:///D:/vscode_style/vscss.css"
+    ]
     
 
     
