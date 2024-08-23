@@ -24,34 +24,6 @@
   font-style: italic;
   font-weight: 400;
 }
-.codicon-accounts-view-bar-icon:before {
-  content: '';
-  background-color: rgb(203 22 13);
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background-image: url(/D:/vscode_style/hacker.png);
-  background-size: 100%;
-}
-
-.monaco-workbench .activitybar>.content {
-  width: 48px;
-  height: 663px;
-  background-image: linear-gradient(45deg, #4d4f71, #000000);
-}
-.monaco-workbench .part.titlebar {
-  display: flex;
-  flex-direction: row;
-  background-image: linear-gradient(45deg, #000000, #212221);
-}
-.monaco-workbench .part.statusbar>.items-container>.statusbar-item.remote-kind {
-  background-color: #24242c;
-  color: #d4d5d7;
-}
-
-.monaco-workbench .part.statusbar {
-  background-image: linear-gradient(45deg, #4d4f71, #020a38);
-}
 .mtk1 {
   color: #2f74be;
   background-image: linear-gradient(45deg, #d6d4dc, #0bc6f0);
@@ -63,12 +35,94 @@
 .mtk9 {
   color: #8be9fd;
   background-image: linear-gradient(45deg, #e00606, #e1ff00);
-  font-style: italic;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   font-weight: 800;
+  font-style: italic;
 }
+/* Changing the user icon */
+.codicon-accounts-view-bar-icon:before {
+  content: '';
+  background-color: rgb(203 22 13);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-image: url(/D:/vscode_style/hacker.png);
+  background-size: 100%;
+}
+/* Activity Bar  */
+.monaco-workbench .activitybar>.content {
+  width: 48px;
+  height: 663px;
+  background-image: linear-gradient(45deg, #4d4f71, #000000);
+}
+
+/* Top Bar */
+.monaco-workbench .part.titlebar {
+  display: flex;
+  flex-direction: row;
+  background-image: linear-gradient(45deg, #4d4f71, #212221);
+}
+
+/* Status Bar */
+.monaco-workbench .part.statusbar>.items-container>.statusbar-item.remote-kind {
+  background-color: #24242c;
+  color: #d4d5d7;
+}
+
+.monaco-workbench .part.statusbar {
+  background-image: linear-gradient(45deg, #4d4f71, #020a38);
+}
+
+/* Change the color of icons in the top-right side of the editor  */
 .monaco-workbench{
   --vscode-icon-foreground: #28d7e8;
 }
+/* Command Palette */
+.quick-input-widget {
+  transform: translateY(-50%) !important;
+  top: 50% !important;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, .45) !important;
+  padding: 10px 10px 18px 10px !important;
+  background-image: linear-gradient(#3c3c50 0%, #2a2b38 100%) !important;
+  backdrop-filter: blur(3px) !important;
+  border-radius: 20px !important;
+}
 
+/* Command palette text input */
+.quick-input-filter .monaco-inputbox {
+  border-radius: 12px !important;
+  padding: 8px !important;
+  border: none !important;
+  background-color: rgba(34, 34, 34, .40) !important;
+  font-family: "Geist Mono" !important;
+  font-size: 14px !important;
+  margin-bottom: 16px !important;
+}
+
+#command-blur {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .15);
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(8px);
+}
+
+/* Command palette's input box placeholder. */
+.monaco-inputbox input::placeholder {
+  color: rgba(255, 255, 255, .3) !important;
+}
+/* Remove background for lists */
+.monaco-list-rows {
+  background: transparent !important;
+}
+
+/* styling the label of the suggestions in command palette */
+.monaco-highlighted-label{
+  font-family: "FiraCode Nerd Font Mono" !important;
+  font-size: 14px !important;
+}
+
+  
