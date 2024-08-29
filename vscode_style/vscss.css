@@ -58,10 +58,19 @@
 }
 
 /* Top Bar */
-.monaco-workbench .part.titlebar {
+.monaco-workbench .part.titlebar>.titlebar-container {
+  align-items: center;
+  box-sizing: border-box;
   display: flex;
-  flex-direction: row;
-  background-image: linear-gradient(45deg, #4d4f71, #212221);
+  flex-grow: 1;
+  flex-shrink: 1;
+  height: 100%;
+  justify-content: space-between;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  width: 100%;
+  background: #000000;
 }
 
 /* Status Bar */
