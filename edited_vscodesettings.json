@@ -134,7 +134,7 @@
   
     
  
-    // committed changes
+    //committed changes
         "editor.rulers": [
         100
     ],
@@ -157,7 +157,7 @@
     "editor.tabSize": 2,
     "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
     "editor.folding": true,
-    "editor.glyphMargin":false
+    "editor.glyphMargin":false,
     
     "editor.tokenColorCustomizations": {
         "textMateRules": [
@@ -168,14 +168,14 @@
               "comment.block",
               "comment.block.documentation",
               "comment.line",
-              "comment.line.double-slash",
+              "comment.line.double-slash"
               
-            // scope names
+            //scope names
             ],
 
             "settings": {
               "fontStyle": "italic bold",
-              "foreground": "#f4e9e9ef",
+              "foreground": "#f4e9e9ef"
 
                 // "fontStyle": "italic",
               // "fontStyle": "italic underline",
@@ -185,14 +185,14 @@
 
             {
             "scope": [
-                "punctuation.definition.comment",
+                "punctuation.definition.comment"
 
             ],
             "settings": {
                 "foreground": "#0ff3e8d8",
                 "fontStyle":   "bold"
             }
-        },
+        }
         ]
       },
     
@@ -200,8 +200,8 @@
     "diffEditor.hideUnchangedRegions.enabled": true,
     "window.title": "🫡 Hello User This is ${dirty}${activeFolderShort} folder",
     "vscode_custom_css.imports": [
-        "file:///D:/vscode_style/vscss.css"
-    ]
+        "file:///D:/vscode-json/vscode_style/vscss.css"
+    ],
     "better-comments.tags": [
         
         {
@@ -249,7 +249,7 @@
             "bold": false,
             "italic": false
         }
-    ],
+    ]
     
 
     
