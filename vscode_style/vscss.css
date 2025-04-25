@@ -40,6 +40,7 @@
   font-weight: 800;
   font-style: italic;
 }
+
 /* Changing the user icon */
 .codicon-accounts-view-bar-icon:before {
   content: '';

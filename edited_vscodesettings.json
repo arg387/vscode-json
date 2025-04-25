@@ -1,4 +1,4 @@
-{
+{   
     "debug.showSubSessionsInToolBar": true,
     "code-runner.runInTerminal": true,
    
@@ -249,9 +249,10 @@
             "bold": false,
             "italic": false
         }
-    ]
+    ],
     
-
+    "editor.guides.bracketPairs": "active",
     
+    "editor.guides.bracketPairsHorizontal": true 
     
 }
