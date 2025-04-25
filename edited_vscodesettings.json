@@ -198,7 +198,7 @@
     
         "diffEditor.ignoreTrimWhitespace": true,
     "diffEditor.hideUnchangedRegions.enabled": true,
-    "window.title": "🫡 Hello User This is ${dirty}${activeFolderShort} folder",
+    "window.title": "🫡 Hello Argha This is 📂 ${dirty}${activeFolderShort} folder",
     "vscode_custom_css.imports": [
         "file:///D:/vscode-json/vscode_style/vscss.css"
     ],
