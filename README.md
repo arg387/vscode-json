@@ -1,6 +1,9 @@
 # Repository Changes Summary :tada: :tada:
 
-
+  ![GitHub last commit](https://img.shields.io/github/last-commit/arg387/vscode-json)
+  ![GitHub watchers](https://img.shields.io/github/watchers/arg387/vscode-json)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arg387.vscode-json)
+  
 ### Workbench Configuration
 
   - [x] window title edit option is added. You can add your name there with emoji's if you want. Just edit part inside quotation ```"🫡 Hello User This is ${dirty}${activeFolderShort} folder" ```   . Don't edit the part inside `${}`.
