@@ -28,7 +28,7 @@
 
 # How to use
 Download the whole file from repository first. First copy the code of `settings.json` file . Open vscode and press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS. Type `Preferences:
-Open User Settings(JSON)` and press enter. Now paste the codes there and save it. Install Custom CSS and JS loader from extension market. Now add the file location of the vscode_style folder in the `settings.json` file. Then, again press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS and type `Enable Custom CSS and JS` . After that press enter. Now all the changes will be reflected unless you make a problem in file location. Check the gif for minimal setup to hide the different bars of vscode ui. 
+Open User Settings(JSON)` and press enter. Now paste the codes of the json file and save it. Install Custom CSS and JS loader from extension market. Now add the file location of the css file and the svg file in the `settings.json` file  and css file respectively according to the pattern shown in the json file and css file of the downloaded zip file. Then, again press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS and type `Enable Custom CSS and JS` . After that press enter. Then press restart button which is shown in the bottom right of the vscode editor(check the notification panel there). Now all the changes will be reflected unless you make a problem in file location. Check the gif for minimal setup to hide the different bars of vscode ui. 
 
 ## Previews
 [![](https://img.shields.io/badge/updated_27_May_2025-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
