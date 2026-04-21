@@ -150,7 +150,7 @@
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "powershell.enableProfileLoading": false,
     "editor.fontSize": 16,
-    "editor.fontFamily": "'FiraCode Nerd Font Mono'",
+    "editor.fontFamily": "JetBrainsMono Bold-Italic",
     "editor.lineHeight": 1.6,
     "editor.fontLigatures": false,
     "editor.mouseWheelZoom": true,
