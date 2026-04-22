@@ -27,6 +27,7 @@
   - [x] CodeSnap
 
 # How to use
+**First, Ensure dracula theme is installed and enabled(enable normal one not the `dracula soft` theme).**
 Download the whole file from repository first. First copy the code of `settings.json` file . Open vscode and press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS. Type `Preferences:
 Open User Settings(JSON)` and press enter. Now paste the codes of the json file and save it. Install Custom CSS and JS loader from extension market. Now add the file location of the css file and the svg file in the `settings.json` file  and css file respectively according to the pattern shown in the json file and css file of the downloaded zip file. Then, again press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS and type `Enable Custom CSS and JS` . After that press enter. Then press restart button which is shown in the bottom right of the vscode editor(check the notification panel there). Now all the changes will be reflected unless you make a problem in file location. Check the gif for minimal setup to hide the different bars of vscode ui. 
 
