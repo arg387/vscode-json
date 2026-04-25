@@ -35,7 +35,7 @@ Open User Settings(JSON)` and press enter. Now paste the codes of the json file 
 
 
 ## Previews
-[![](https://img.shields.io/badge/Screenshots_updated:-70d6ff)![](https://img.shields.io/badge/4_April_2026-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
+[![](https://img.shields.io/badge/Screenshots_updated:-70d6ff)![](https://img.shields.io/badge/24_April_2026-8A2BE2)](https://github.com/arg387/zenedit/releases/tag/first)
 <br>
 ![image](https://github.com/user-attachments/assets/3a9ae10f-d717-4529-af9f-5d51507166cc)
 ![image](https://github.com/user-attachments/assets/53c500c0-9334-4ca3-abce-cfd014821bff)
