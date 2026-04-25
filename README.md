@@ -6,7 +6,7 @@
   
 ### Workbench Configuration
 
-  - [x] window title edit option is added. You can add your name there with emoji's if you want. Just edit part inside quotation ```"🫡 Hello User This is ${dirty}${activeFolderShort} folder" ```   . Don't edit the part inside `${}`.
+  - [x] window title edit option is added. You can add your name there with emoji's if you want. Just replace `User` part inside quotation ```"🫡 Hello User This is ${dirty}${activeFolderShort} folder" ``` with your name or whatever you wish to do. Don't edit the part inside `${}`.
 ### Editor Configuration
 
   - [x] The glyph margin has been disabled.
