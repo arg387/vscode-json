@@ -1,6 +1,5 @@
 {   
     "debug.showSubSessionsInToolBar": true,
-    "code-runner.runInTerminal": true,
    
     "liveServer.settings.fullReload": true,
     "editor.linkedEditing": true,
