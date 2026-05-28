@@ -4,18 +4,10 @@
     "liveServer.settings.fullReload": true,
     "editor.linkedEditing": true,
     "window.zoomLevel": 1,
-    "workbench.colorCustomizations": {
-    "terminal.border": "#09f34f",
-    "terminalCursor.background": "#e0a903b1",
-    "terminalCursor.foreground": "#00c8ff"
-    },
     "terminal.integrated.gpuAcceleration": "on",
     "notebook.output.fontFamily": "'JetBrainsMono Bold-Italic '",
     "workbench.colorTheme": "Dracula Theme",
-    "terminal.integrated.profiles.windows": {
-
-        
-        
+    "terminal.integrated.profiles.windows": {     
 
         "PowerShell": {
             "source": "PowerShell",
@@ -118,8 +110,6 @@
     "editor.cursorBlinking": "expand",
     "files.defaultLanguage": "powershell",
     "workbench.activityBar.iconClickBehavior": "toggle",
-
-
     "editor.bracketPairColorization.enabled": true,
     "debug.openDebug": "neverOpen",
     "editor.tabCompletion": "on",
