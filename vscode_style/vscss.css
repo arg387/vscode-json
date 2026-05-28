@@ -492,6 +492,7 @@
 }
 
 /* Changing the user icon */
+/* make sure to change the background image path in line 502 according to your image location. */
 .codicon-accounts-view-bar-icon:before {
   content: ''!important;
   background-color: rgb(203 22 13);
