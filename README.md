@@ -56,7 +56,8 @@ Open User Settings(JSON)` and press enter. Now paste the codes of the json file 
 ### For Minimal setup change the visibilities according to the instructions
 ![Recording 2024-08-24 143342(1)](https://github.com/user-attachments/assets/a21fcf39-02eb-470e-bc53-66eff975fea4)
 ### latest 
-<img width="1918" height="1077" alt="{34B30C76-BF15-4597-A655-312A90A421E6}" src="https://github.com/user-attachments/assets/073acbcd-fe89-4564-86f4-f4ec548eb0b6" />
+<img width="1913" height="1047" alt="image" src="https://github.com/user-attachments/assets/2846eb28-2e56-4da1-9256-001e37f120ec" />
+
 
 
 
