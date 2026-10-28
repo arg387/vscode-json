@@ -242,6 +242,7 @@
     
     "editor.guides.bracketPairs": "active",
     
-    "editor.guides.bracketPairsHorizontal": true 
+    "editor.guides.bracketPairsHorizontal": true,
+    "workbench.iconTheme": "material-icon-theme",
     
 }
