@@ -6,13 +6,22 @@
   --accent-color: #16b673;
   --immersive: 0;
 }
+
 .monaco-workbench {
   font-family: "Comic Sans MS" !important;
   font-weight: 500 !important;
-  background-color: var(--spacing-color)!important;
+  --vscode-sideBar-background: transparent !important;
+  --vscode-sideBarTitle-background: transparent !important;
 }
 
-
+.monaco-workbench.floating-panels:not(.noactivitybar) .part.sidebar.left {
+  --modern-ui-floating-card-seam-left-color: #403a3a;
+  box-shadow: 0px 0px 10px 0px rgba(132, 116, 231, 0.269) !important;
+}
+/* chat bar */
+.monaco-workbench.floating-panels .part.sidebar, .monaco-workbench.floating-panels .part.auxiliarybar{
+  box-shadow: 0px 0px 10px 0px rgba(132, 116, 231, 0.269) !important;
+}
 /* #region-------rounded corners and spacing-------*/
 
 .part.activitybar {
@@ -163,12 +172,11 @@
 .suggest-input-container,
 .editor-widget.suggest-widget.visible,
 .suggest-details,
-.notificatin .editor-widget.parameter-hints-widget.visible {
+.notification .editor-widget.parameter-hints-widget.visible {
   border-radius: 6px !important;
   /* margin-right: 4px !important; */
   /* max-width: calc(100% - 4px) !important; */
 }
-
 /* #endregion-------rounded corners for lists and inputs-------*/
 
 /* #region-------active tab highlight------*/
@@ -214,9 +222,9 @@
   &.action-item.checked .action-label::after {
     content: '';
     width: 110%;
-    height: 75%;
+    height: 90%;
     position: absolute;
-    left: 1px !important;
+    left: -1px !important;
     border-radius: 6px;
     background-color: rgb(from var(--accent-color) r g b / 0.22);
     box-shadow: rgba(0, 0, 0, 0.20) 0px 20px 25px -5px,
